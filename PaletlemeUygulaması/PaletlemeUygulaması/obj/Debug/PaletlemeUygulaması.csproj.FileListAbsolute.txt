@@ -42,3 +42,14 @@ D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUy
 D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.CopyComplete
 D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.exe
 D:\visual studio\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.pdb
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.exe.config
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.exe
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\bin\Debug\PaletlemeUygulaması.pdb
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csprojAssemblyReference.cache
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.Form1.resources
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.Properties.Resources.resources
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.GenerateResource.cache
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.csproj.CopyComplete
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.exe
+C:\Users\burak\Source\Repos\burakkocyigit\CSharpProjects\PaletlemeUygulaması\PaletlemeUygulaması\obj\Debug\PaletlemeUygulaması.pdb
